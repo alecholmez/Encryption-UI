@@ -1,0 +1,20 @@
+h1, h2, h3 ,h4, h5, h6 {
+    font-family: 'Roboto' !important;
+    font-weight: 300;
+
+}
+
+body {
+    font-family: 'Roboto' !important;
+    font-weight: 300;
+}
+
+.uk-input {
+    font-family: 'Roboto' !important;
+    font-weight: 300;
+}
+
+.light-text {
+    font-weight: 300;
+    font-size: 18px;
+}

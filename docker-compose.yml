@@ -1,0 +1,9 @@
+version: '2'
+services:
+  encrypt:
+    build: .
+    environment:
+      - PORT=8080
+      - STATIC=/go/src/github.com/alecholmez/binaryui/static
+    ports:
+      - "8080:8080"
